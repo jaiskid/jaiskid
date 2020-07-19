@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently learning 
 
+🔭 I’m currently working on some interesting project
+
 ![Neeraj jaiswal github stats](https://github-readme-stats.vercel.app/api?username=jaiskid&show_icons=true&hide_border=true)
 <!--
 **jaiskid/jaiskid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
