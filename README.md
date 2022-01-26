@@ -9,4 +9,4 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
 
 ## About Me
 
-I'm a Backend Software Engineer. I primarily develop with TypeScript, Nest.js, and MySQL. 
+I'm a Backend Software Engineer. I primarily develop with TypeScript, Nest.js and MySQL. 
