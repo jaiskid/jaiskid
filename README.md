@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm Currently working as Analyst in Deloitte Management Consulting part of life science enagagements. I primarily develop with TypeScript,Javascript,Nest.js with MySQL database such as snowflake Database and have working experience with test frameworks like selenium for automation testing for UI and Jest for functional unit test and e2e testing in addition of that complete understanding of System design architecture.
+I'm Neeraj Jaiswal currently working as Analyst in Deloitte management consulting part of life science enagagements. I primarily develop with TypeScript,Javascript,Nest.js with MySQL database such as snowflake Database and have working experience with test frameworks like selenium for automation testing for UI and Jest for functional unit test and e2e testing in addition of that complete understanding of System design architecture.
 
 <br />
 
