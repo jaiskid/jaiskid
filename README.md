@@ -2,6 +2,8 @@
 
 Welcome to my GitHub repository. Here you will mostly find projects that I have worked on. Most of my recent projects are private.
 
+Hi I am Currently working as Analyst in Deloitte Management Consulting.
+
 [![Neeraj jaiswal github stats](https://github-readme-stats.vercel.app/api?username=jaiskid&show_icons=true&hide_border=true)](https://github.com/jaiskid/jaiskid)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiskid&layout=compact&theme=dark)](https://github.com/jaiskid/jaiskid)
