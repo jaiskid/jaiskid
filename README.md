@@ -18,21 +18,6 @@ I'm Neeraj Jaiswal currently working as Intern Analyst in Deloitte management co
 
 Welcome to my GitHub repository. Here you will mostly find projects that I have worked on. Most of my recent projects are private.
 
-[![Neeraj jaiswal github stats](https://github-readme-stats.vercel.app/api?username=jaiskid&show_icons=true&hide_border=true&theme=gotham)](https://github.com/jaiskid/jaiskid)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiskid&layout=compact&theme=gotham&hide_border=true)](https://github.com/jaiskid/jaiskid)
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/jaiskid/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/jaiskid/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jaiskid streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiskid&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -93,5 +78,26 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+
+
+## 🔥 GitHub stats
+
+[![Neeraj jaiswal github stats](https://github-readme-stats.vercel.app/api?username=jaiskid&show_icons=true&hide_border=true&theme=gotham)](https://github.com/jaiskid/jaiskid)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiskid&layout=compact&theme=gotham&hide_border=true)](https://github.com/jaiskid/jaiskid)
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/jaiskid/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/jaiskid/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jaiskid streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiskid&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+
    
  
